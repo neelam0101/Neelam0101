@@ -33,17 +33,17 @@
 ## 👨🏻‍💻About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <b>Motivated and efficient Full-stack web developer</b>
-From being an Electrical Engineer to a Web Developer, what kept me motivated is my hunger to learn and explore new concepts. I am quite sure I will never stop learning, whatever the situation. I am looking forward to starting my professional career as a Web Developer and continuing my learning process.
+<b>From being an Electrical Engineer to a Web Developer, what kept me motivated is my hunger to learn and explore new concepts. I am quite sure I will never stop learning, whatever the situation. I am looking forward to starting my professional career as a Web Developer and continuing my learning process.</b>
 
 
-* ✉️  You can contact me at [neelam0101singh@gmail.com](mailto:neelam0101singh@gmail.com)
-* 🧠  I'm learning MERN stack
-* 🔭 I’m currently working on Frontend & Backend
-* 🌱 I’m currently learning MERN Stack
-* 👯 I’m looking to collaborate on LinkdIn & Github
-* 💬 Ask me about any MERN related stuff
-* 😄 Pronouns:She/Her
-* ⚡ Fun fact: Life is so much easier when you just chill out.
+* ✉️ <b> You can contact me at</b> [neelam0101singh@gmail.com](mailto:neelam0101singh@gmail.com)
+* 🧠 <b> I'm learning MERN stack</b>
+* 🔭 <b>I’m currently working on Frontend & Backend</b>
+* 🌱 <b>I’m currently learning MERN Stack</b>
+* 👯 <b>I’m looking to collaborate on LinkdIn & Github</b>
+* 💬 <b>Ask me about any MERN related stuff</b>
+* 😄 <b>Pronouns:She/Her</b>
+* ⚡ <b>Fun fact: Life is so much easier when you just chill out.</b>
  <br>
 
 ## 🥇 Languages and Tools:
