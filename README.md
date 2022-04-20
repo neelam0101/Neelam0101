@@ -101,7 +101,7 @@
 <br /><br /><br /><br /><br />
  <hr>
 <p align="center">
-   <b> If you like what I do, maybe consider buying me a Cadbury🍫</b> 😉✌💕
+   <b>Thank you for being here,have a look into repositories</b> 😉✌💕
 
 <p align="center">
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
