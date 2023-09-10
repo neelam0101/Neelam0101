@@ -14,7 +14,7 @@
   <img align="left" alt="neelam's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/NeelamS57507036" target = "_blank">
-  <img align="left" alt="neelam | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="neelam | Twitter" width="55px" src="https://img.icons8.com/color/2x/twitter.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100006175927038" target = "_blank">
   <img align="left" alt="neelam | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
