@@ -11,7 +11,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/neelam-singh-999850152/" target = "_blank">
-  <img align="left" alt="neelam's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="neelam's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.twitter.com/NeelamS57507036" target = "_blank">
   <img align="left" alt="neelam | Twitter" width="55px" src="https://img.icons8.com/color/2x/twitter.png" />
