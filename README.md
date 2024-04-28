@@ -60,45 +60,8 @@
 </p>
 <br/>
 
-
-
-## 📊 My Github Stats
-
-<br/>
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Neelam2026&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Neelam2026's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam2026&langs_count=10&title_color=14b8a6&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
- </p> 
-  <br/>
-
-<h2>ℹ️ &nbsp;Github Info</h2>
- <details>
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neelam2026&stroke=84cc16&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=84cc16&currStreakLabel=14b8a6&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></p>
-</details>
-
-<details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Neelam2026&bg_color=1c1917&color=84cc16&line=ef4444&point=84cc16&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
-</details>
-
-<hr>
-
-
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Neelam2026/Nykaa_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neelam2026&repo=Nykaa_project&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Neelam2026/beardo_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neelam2026&repo=beardo_project&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Neelam2026/Beardo_Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neelam2026&repo=Beardo_Clone&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Neelam2026/MyntraClone_react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neelam2026&repo=MyntraClone_react&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 <br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
  <hr>
 <p align="center">
    <b>Thank you for being here,have a look into repositories</b> 😉✌💕
